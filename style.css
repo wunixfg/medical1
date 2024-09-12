@@ -1,0 +1,278 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: "Manrope", sans-serif;
+}
+.conteiner{
+    width: 1200px;
+    margin: 0 auto;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+.nav-logo{
+    display: flex;
+    align-items: center;
+}
+.list{
+    display: flex;
+    align-items: center;
+}
+.list li{
+    margin-left: 40px;
+    list-style: none;
+}
+.btn{
+    padding: 12px 22px;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 500;
+    border-color: transparent;
+}
+.Sign-up{
+    background-color: #4D77FF;
+    color: #FFFFFF;
+}
+.Sign-in{
+    background-color: transparent;
+}
+.hero{
+    display: flex;
+    align-items: center;
+}
+.hero-text p{
+    margin: 25px 0 40px 0;
+    color: #696969;
+}
+.title{
+    text-align: center;
+    margin-top: 120px;
+}
+.cards{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+.card{
+    width: 290px;
+    border-radius: 0px, 0px, 10px, 10px;
+    box-shadow: 0 10px 40px rgb(135, 132, 132);
+    border-top: 3px solid #4D77FF;
+    padding: 50px 4px;
+}
+.card p{
+    font-weight: 700;
+    margin: 15px 0;
+}
+.title-h4{
+    color: #4D77FF;
+    font-weight: 700;
+    font-size: 14px;
+}
+.title-p{
+    font-size: 32px;
+    color: #121212;
+    font-weight: 700;
+}
+.third{
+    display: flex;
+    margin-top: 150px;
+}
+.text-block{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.text-block p{
+    margin-left: 10px;
+}
+.third-desc{
+    color: #696969;
+    margin: 28px 0;
+}
+.third-card{
+    width: 200px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: -4px 10px 50px rgb(119, 113, 113);
+}
+.third-card-first{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.third-img{
+    position: relative;
+}
+.third-card{
+    position: absolute;
+    top: 20px;
+    left: 10px;
+}
+.third-btn{
+    text-align: center;
+}
+.find{
+    background-color: #EDF1FF;
+    color: #4D77FF;
+    padding: 8px 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    border-color: transparent;
+    font-weight: 500;
+}
+.third-card-title{
+    margin-left: 10px;
+}
+.third-card-title span{
+    color: #696969;
+    font-size: 12px;
+}
+.third-card-title p{
+    color: #121212;
+    font-weight: 700;
+    font-size: 14px;
+}
+.doctors{
+    font-size: 14px;
+    font-weight: 700;
+}
+.select{
+    font-size: 12px;
+    color: #696969;
+}
+.button button{
+    background: #4D77FF;
+    color: #FFFFFF;
+    border-radius: 10px;
+    padding: 16px 36px;
+    border-color: transparent;
+    margin-top: 10px;
+}
+.fourth{
+    display: flex;
+    margin-top: 100px;
+}
+.fourth-desc{
+    color: #696969;
+    margin: 28px 0;
+}
+.text-blocks{
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+}
+.text-blocks p{
+    margin-left: 10px;
+}
+.title-h5{
+    margin-top: 13px;
+    color: #4D77FF;
+}
+.title-k{
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.img-12{
+    width: 700px;
+    height: 400px;
+    border-radius: 40%;
+}
+
+.top-00{
+    background-color: #4D77FF;
+    color: #FFFFFF;
+    border: none;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.kon-66{
+    display: flex;
+    gap: 30px;
+}
+
+.happy{
+margin-top: 80px;
+}
+
+.h5-00{
+    color: #4D77FF;
+}
+
+.text-blocks-2{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+.klass{
+    color: #4D77FF;
+}
+.klass2{
+    font-size: x-large;
+}
+.Group55{
+    text-align: center;
+}
+.Groups{
+    display: flex;
+    gap: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.Groupss{
+    width: 350px;
+    border-radius: 0px, 0px, 10px, 10px;
+    box-shadow: 0 10px 40px rgb(135, 132, 132);
+    border-top: 3px solid #4D77FF;
+    padding: 50px 4px;
+    text-align: center;
+}
+.hp9{
+    font-size: x-large;
+}
+.p30px{
+    color: rgba(105, 105, 105, 1);
+}
+
+.lolo{
+    display: flex;
+    margin-top: 60px;
+}
+
+.hjojo{
+    display: flex;
+    gap: 60px;
+    margin-left: 50px;
+}
+.yrl{
+    text-align: center;
+    font-size: 32px;
+    color: #121212;
+    font-weight: 700;
+
+}
+.yrl5{
+    text-align: center;
+}
+.klass-990{
+    display: flex;
+    gap: 50px;
+    margin-top: 70px;
+}
+
+.kokol{
+    margin-top: 180px;
+}
+
+.student{
+    color: #696969;
+}

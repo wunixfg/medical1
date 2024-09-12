@@ -1,0 +1,28 @@
+@media screen and (max-width:1022px) {
+    .conteiner{
+        padding: 20px;
+    }
+}
+@media screen and (max-width:875px) {
+    .hero-img img{
+        max-width: 100%;
+    }
+    .hero-text p{
+        font-size: 20px;
+    }
+    .nav-logo{
+        display: flex;
+        gap: 40px;
+    }
+    .list{
+        display: flex;
+        align-items: center;
+    }
+    .list li{
+            margin-left: 40px;
+            list-style: none;
+    }
+    .hero{
+        margin-top: 10px;
+    }
+}
